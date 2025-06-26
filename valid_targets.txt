@@ -1,0 +1,16 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./tools/daterangepicker_gen.php
+./source/install.php
+./source/js/daterangepicker.jQuery.js
+./source/example/daterangepicker.php
+./source/example/daterangepicker.tpl.php
+./source/includes/QDateRangePickerPreset.class.php
+./source/includes/QDateRangePickerBase.class.php
+./source/includes/QDateRangePicker.class.php
+./source/includes/QDateRangePickerPresetRange.class.php
+./valid_targets.txt
